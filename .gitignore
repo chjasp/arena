@@ -1,7 +1,9 @@
 # Unity
 # =================================
 # Unity-generated files
-Assets/
+Assets/*
+!Assets/Scripts/
+!Assets/Scripts/**
 Library/
 Temp/
 Obj/
